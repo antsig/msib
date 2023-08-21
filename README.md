@@ -1,2 +1,3 @@
-# msib
-MSIB 2023
+# MSIB 2023
+This is my first week at Bangkit Academy by Kampus Merdeka platform. All the things just a new experience for me, so I'm still learning  the rules. I've attended some important session from Kampus Merdeka and Bangkit itself, such as National Onboarding Program MSIB Angkatan 5, Kickstarting a Journey of Personal Transformation, and Sosialisasi Platform Kampus Merdeka.
+In other hand, I acces my Dicoding’s platform and start to learning about Bangkit Academy 2023 -  Mobile Developer Learning Path. It start from Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. I hope this is a good beginning and could finish the path as well.
