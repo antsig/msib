@@ -1,7 +1,7 @@
 # JURNAL MSIB 2023
 
 14 Agustus 2023 \
-Today is my first day at Bangkit Academy by Kampus Merdeka. I start to learnig the Bangkit rules, Platform Dicoding rules, etc based on Bangkit Handout that already shared by Bangkit Academy's email.
+Today is my first day at Bangkit Academy by Kampus Merdeka. I start to learnig the Bangkit rules, Platform Dicoding rules, etc based on Bangkit Handout that already shared by Bangkit Academy's email. Exploring a new things if amazing experince for me.
 
 15 Agustus 2023 \
 Today I 've attended Bangkit Opening 2023 Batch 2 and Technical Briefing session. Just same as yesterday,  Iit held on youtube channel. There are so many advise from managers, bangkit mitra and alumni. It is a motivation to improve my goals.
@@ -24,3 +24,6 @@ Today I was finished 3 Dicoding courses and got a Certificate of Completion:
   - Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
   - Pengenalan ke Logika Pemrograman (Programming Logic 101)
   - Belajar Dasar Git dengan Github
+
+22 Agustus 2023 \
+At this 2nd day, I'm still exploring Dicoding courses. Now about "Memulai Pemrograman dengan Kotlin". The progress is about 31% since Kotlin was new  language for me. So far it's good, the fundamental same as another language I've ever explored such as PHP. Hope the next part is as good as before.
