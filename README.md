@@ -27,3 +27,7 @@ Today I was finished 3 Dicoding courses and got a Certificate of Completion:
 
 22 Agustus 2023 \
 At this 2nd day, I'm still exploring Dicoding courses. Now about "Memulai Pemrograman dengan Kotlin". The progress is about 31% since Kotlin was new  language for me. So far it's good, the fundamental same as another language I've ever explored such as PHP. Hope the next part is as good as before.
+
+23 Agustus \
+Today schedulled for  ILT SS 1 - Growth Mindset and The Power of Feedback at 18.30-20.30 WIB that means 19.30-21.30 at local time (WiTA). I do some question during the online session. After the live session, I do some feedback for the session then do quiz for ILT SS 1 - Growth Mindset and The Power of Feedback from classrom. Also, there is quizz with limited time from dicoding's platform. In dicoding platform, I continued my learning about "Memulai Pemrograman dengan Kotlin" and reached 40%.
+
